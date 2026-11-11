@@ -50,4 +50,5 @@ for (let index = 0; index < 9; index++) {
   };
   div.appendChild(document.createElement("p"));
   container.appendChild(div);
-  squareArray.push(squa
+  squareArray.push(square);
+}
